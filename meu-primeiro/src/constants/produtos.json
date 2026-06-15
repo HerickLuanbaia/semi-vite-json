@@ -1,0 +1,24 @@
+[
+    {
+    "id": 1,
+    "name": "Produto",
+    "desc": "muito bom",
+    "value":100.00,
+    "image":"/p1.webp"
+    },
+    {
+    "id": 2,
+    "name": "Produto",
+    "desc": "QUASE DE GRAÇA",
+    "value": 500.00,
+    "image":"/p2.webp"
+    },
+    {
+    "id": 3,
+    "name": "Produto",
+    "desc": "Caro de mais",
+    "value": 30.00,
+    "image":"/p3.webp"
+    }
+
+]
